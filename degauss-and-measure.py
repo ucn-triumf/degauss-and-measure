@@ -19,11 +19,11 @@ degaussing.printName()
 
 freq_degauss = 10
 volt_degauss = 10
-sample_rate = 10000
+sample_rate = 100000
 
 #magnetic field parameters
 field_amp = .5
-field_freq= .01
+field_freq= .1
 
 
 # if (raw_input("\nHave you set the ramp (Y)/N ?  ")=="N"):
